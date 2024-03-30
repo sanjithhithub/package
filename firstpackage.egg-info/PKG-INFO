@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: firstpackage
+Version: 0.0.1
+Summary: Simple test package
+Author: SANJITH M
+Author-email: msanjith130@gmail.com
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# This my simple project
+This is my simple project to show the use of a package
